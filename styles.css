@@ -31,19 +31,24 @@ footer {
 
 .please-read-my-article {
     margin-top: -20px;
-    bottom: 0;
     font-size: 36px;
     font-family: 'Nohemi', sans-serif;
     color: #ededf4;
 }
 
 .read-something {
-    display: flex;
-    justify-content: right;
-    font-size: 16px;
-    font-family: 'Nohemi', sans-serif;
-    color: #de3c4b;
+    margin-left: auto;
+    margin-right: 60px;
+    margin-top: 20px;
+    width: fit-content;
+    padding: 40px;
     background-color: #ededf4;
     border-radius: 16px;
+}
 
+.read-something p {
+    font-size: 16px;
+    color: #de3c4b;
+    padding: 0;
+    margin: 15px 0;
 }
