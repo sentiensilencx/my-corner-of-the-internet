@@ -5,6 +5,7 @@
 
 html {
     background-color: #252525;
+    
 }
 
 p {
@@ -13,4 +14,13 @@ p {
     font-family: 'Nohemi', sans-serif;
     color: #de3c4b;
     font-size: 48px;
+}
+
+footer {
+    text-align: left;
+    bottom: 0;
+    width: 100%;
+    color: #de3c4b;
+    font-size: 16px;
+    font-family: 'Nohemi', sans-serif;
 }
