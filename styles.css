@@ -7,7 +7,10 @@ html {
     background-color: #252525;
 }
 
-h2 {
-    padding: 20px;
+p {
+    padding-left: 60px;
+    padding-top: 32px;
     font-family: 'Nohemi', sans-serif;
+    color: #de3c4b;
+    font-size: 48px;
 }
