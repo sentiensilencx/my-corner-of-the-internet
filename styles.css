@@ -17,10 +17,22 @@ p {
 }
 
 footer {
-    text-align: left;
+    position: fixed;
     bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: left;
     width: 100%;
     color: #de3c4b;
-    font-size: 16px;
     font-family: 'Nohemi', sans-serif;
+    font-size: 16px;
+    padding: 20px 60px;
+}
+
+.please-read-my-article {
+    margin-top: -20px;
+    bottom: 0;
+    font-size: 36px;
+    font-family: 'Nohemi', sans-serif;
+    color: #ededf4;
 }
