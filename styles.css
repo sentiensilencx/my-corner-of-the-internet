@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Nohemi';
+    src: url('Nohemi-Regular.ttf') format('ttf');
+}
+
+html {
+    background-color: #252525;
+}
+
+h2 {
+    padding: 20px;
+    font-family: 'Nohemi', sans-serif;
+}
